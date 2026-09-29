@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>China Trip</title>
+  <meta name="description" content="Our December 2026 trip: day-by-day plan, places, flights and hotels.">
+  <meta name="theme-color" content="#F5F3EF" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#141312" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="China Trip">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <main id="views">
+      <section class="view" id="view-places" data-view="places"></section>
+      <section class="view" id="view-itinerary" data-view="itinerary"></section>
+      <section class="view" id="view-overview" data-view="overview"></section>
+    </main>
+
+    <nav class="tabbar" aria-label="Sections">
+      <a href="#places" class="tab" data-tab="places">
+        <svg aria-hidden="true"><use href="#i-pin"/></svg><span>Places</span>
+      </a>
+      <a href="#itinerary" class="tab" data-tab="itinerary">
+        <svg aria-hidden="true"><use href="#i-calendar"/></svg><span>Itinerary</span>
+      </a>
+      <a href="#overview" class="tab" data-tab="overview">
+        <svg aria-hidden="true"><use href="#i-route"/></svg><span>Overview</span>
+      </a>
+    </nav>
+  </div>
+
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+  <div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden></div>
+  <div class="driver" id="driver" role="dialog" aria-modal="true" aria-label="Show to driver" hidden></div>
+  <div class="loading" id="loading">Loading…</div>
+  <div class="toast" id="toast" role="status" hidden></div>
+
+  <!-- Icons (inline so nothing loads from the network) -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="9.5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+      <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-route" viewBox="0 0 24 24"><circle cx="6" cy="18" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="18" cy="6" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8.5 18H15a3 3 0 0 0 0-6H9a3 3 0 0 1 0-6h6.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-nav" viewBox="0 0 24 24"><path d="M20 4 4 11l7 2 2 7 7-16Z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></symbol>
+      <symbol id="i-driver" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 8h8M8 12h8M8 16h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+      <symbol id="i-bed" viewBox="0 0 24 24"><path d="M3 18V7M3 14h18v4M21 14v-2a3 3 0 0 0-3-3h-7v5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="7" cy="11" r="1.8" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+      <symbol id="i-taxi" viewBox="0 0 24 24"><path d="M5 16v-4l2-5h10l2 5v4M5 16h14M5 16v2.5M19 16v2.5M4 12h16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="8" cy="14" r=".6" fill="currentColor" stroke="currentColor"/><circle cx="16" cy="14" r=".6" fill="currentColor" stroke="currentColor"/></symbol>
+      <symbol id="i-metro" viewBox="0 0 24 24"><rect x="6" y="3" width="12" height="14" rx="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M6 11h12M9 21l1.5-4M15 21l-1.5-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="9.5" cy="14" r=".7" fill="currentColor"/><circle cx="14.5" cy="14" r=".7" fill="currentColor"/></symbol>
+      <symbol id="i-train" viewBox="0 0 24 24"><path d="M2.5 16H17a4 4 0 0 0 1.4-7.7L12 6H2.5M2.5 11.5h15.5M2.5 19.5h19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 6v5.5M11.5 6v5.5" stroke="currentColor" stroke-width="1.5"/></symbol>
+      <symbol id="i-walk" viewBox="0 0 24 24"><circle cx="13" cy="4.5" r="1.8" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M10 21l2.5-6 2.5 2.5V21M8 11l3-3 3 1 2 3M12.5 15 11 8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-bike" viewBox="0 0 24 24"><circle cx="6" cy="16" r="3.5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="18" cy="16" r="3.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M6 16l4-7h5l3 7M10 9l2 7h-6M14 6h2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-bus" viewBox="0 0 24 24"><rect x="5" y="3.5" width="14" height="14" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M5 11h14M8 20v-2.5M16 20v-2.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="8.5" cy="14.3" r=".7" fill="currentColor"/><circle cx="15.5" cy="14.3" r=".7" fill="currentColor"/></symbol>
+      <symbol id="i-flight" viewBox="0 0 24 24"><path d="M21 15.5 13.5 11V5a1.5 1.5 0 0 0-3 0v6L3 15.5V17l7.5-2.2V19L8.5 20.5V22l3.5-1 3.5 1v-1.5L13.5 19v-4.2L21 17v-1.5Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+      <symbol id="i-food" viewBox="0 0 24 24"><path d="M7 3v8M5 3v5a2 2 0 0 0 4 0V3M7 11v10M16 21V3c-2 1.5-3 4-3 7v3h3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+      <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-people" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3.5 19a5.5 5.5 0 0 1 11 0M16 5.5a3 3 0 0 1 0 5.5M17.5 14a5 5 0 0 1 3 5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    </defs>
+  </svg>
+
+  <script src="app.js"></script>
+</body>
+</html>
