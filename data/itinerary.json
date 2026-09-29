@@ -1,0 +1,1637 @@
+{
+ "2026-12-20": {
+  "city": "Shenzhen",
+  "cities": [
+   "Shenzhen"
+  ],
+  "items": [
+   {
+    "id": "2026-12-20-00",
+    "time": {
+     "start": null,
+     "end": null,
+     "approx": false,
+     "label": "Upon arrival"
+    },
+    "title": "Hotel Check-in / Drop Off Luggage",
+    "titleZh": "酒店 Check-in / 放行李",
+    "duration": "30–60 min",
+    "details": "Theme: Historic Nanshan → Shekou. Keep arrival day flexible in case of delays. Drop off luggage before heading out.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-crystal-sz",
+    "optionIds": [],
+    "modes": [],
+    "kind": "hotel"
+   },
+   {
+    "id": "2026-12-20-01",
+    "time": {
+     "start": "14:30",
+     "end": "16:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Nantou Ancient City 南头古城",
+    "titleZh": "南头古城",
+    "duration": "2 hrs",
+    "details": "Historic Shenzhen neighborhood with old architecture, alleys, cafés, shops, and exhibitions.",
+    "getThere": "🚕 Didi from hotel → 🚶 explore entirely on foot.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "nantou-ancient-city",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-20-02",
+    "time": {
+     "start": "16:30",
+     "end": "17:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Milk Buffalo Queen Dessert Shop 水牛奶皇后",
+    "titleZh": "水牛奶皇后糖水铺（南山店）",
+    "duration": "45 min",
+    "details": "Afternoon dessert and rest stop. Don’t eat too much since dinner is coming.",
+    "getThere": "🚕 Didi from Nantou Ancient City.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "milk-buffalo-queen",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-20-03",
+    "time": {
+     "start": "17:15",
+     "end": "18:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Travel to Shekou 蛇口",
+    "titleZh": "前往蛇口",
+    "duration": "30–45 min",
+    "details": "🚕 Didi recommended. This is approaching evening rush hour, so driving directly is easier than making metro transfers.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-20-04",
+    "time": {
+     "start": "18:00",
+     "end": "19:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Shekou Wu Ji Crispy Chicken & Oyster Chicken Hotpot 蛇口吴记",
+    "titleZh": "蛇口吴记·脆皮鸡·生蚝鸡煲",
+    "duration": "1.5 hrs",
+    "details": "🍽️ Main dinner. Fits naturally into the Nantou → Shekou route.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "shekou-wuji",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-20-05",
+    "time": {
+     "start": "19:45",
+     "end": "21:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Sea World 海上世界",
+    "titleZh": "海上世界 Sea World — Optional",
+    "duration": "1 hr",
+    "details": "Low priority. Go for an evening walk if you still have energy; otherwise skip it.",
+    "getThere": "🚕/🚶 depending on distance → 🚕 back to hotel.",
+    "stars": 0,
+    "badge": "Optional",
+    "placeId": "sea-world-shekou",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   }
+  ]
+ },
+ "2026-12-21": {
+  "city": "Shenzhen",
+  "cities": [
+   "Shenzhen"
+  ],
+  "items": [
+   {
+    "id": "2026-12-21-06",
+    "time": {
+     "start": "07:30",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Leave Hotel",
+    "titleZh": "酒店出发",
+    "duration": null,
+    "details": "🇭🇰 Time-sensitive day. Your lunch reservation is at 11:00 AM. 🚕 Didi from hotel → Futian Checkpoint 福田口岸.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-21-07",
+    "time": {
+     "start": "08:10",
+     "end": null,
+     "approx": true,
+     "label": null
+    },
+    "title": "Futian Checkpoint 福田口岸",
+    "titleZh": "福田口岸",
+    "duration": "30–45 min",
+    "details": "Complete mainland exit formalities and cross into Hong Kong at Lok Ma Chau. Target: Be on the Hong Kong side by ~8:50 AM.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "futian-checkpoint",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-21-08",
+    "time": {
+     "start": "08:50",
+     "end": "10:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Lok Ma Chau → Jordan 佐敦",
+    "titleZh": "落马洲 → 佐敦 Jordan",
+    "duration": "1 hr 20 min",
+    "details": "🚇 MTR. Take the East Rail Line from Lok Ma Chau toward Kowloon, then transfer toward Jordan Station. Allow extra time for transfers.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "jordan-station",
+    "optionIds": [],
+    "modes": [
+     "metro"
+    ],
+    "city": "Hong Kong",
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-21-09",
+    "time": {
+     "start": "10:15",
+     "end": "10:25",
+     "approx": false,
+     "label": null
+    },
+    "title": "Jordan Station → Eaton HK",
+    "titleZh": "佐敦站 → Eaton HK",
+    "duration": "5–10 min",
+    "details": "🚶 Exit Jordan Station B2 → walk about 5 minutes → Eaton HK, 380 Nathan Road. Aim to arrive around 10:20 AM, not right before the reservation.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "eaton-hk",
+    "optionIds": [],
+    "modes": [
+     "walk"
+    ],
+    "city": "Hong Kong",
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-21-10",
+    "time": {
+     "start": "10:20",
+     "end": "10:50",
+     "approx": false,
+     "label": null
+    },
+    "title": "Eaton HK / Break",
+    "titleZh": "Eaton HK / 休息",
+    "duration": "30 min",
+    "details": "Rest, use the restroom, and explore the hotel briefly. Head to B2 around 10:50 AM.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "eaton-hk",
+    "optionIds": [],
+    "modes": [],
+    "city": "Hong Kong",
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-21-11",
+    "time": {
+     "start": "11:00",
+     "end": "12:45",
+     "approx": false,
+     "label": null
+    },
+    "title": "Yat Tung Heen 逸东轩",
+    "titleZh": "逸东轩 Yat Tung Heen ⭐",
+    "duration": "1 hr 45 min",
+    "details": "🍽️ Reservation: 11:00 AM. Located on B2 of Eaton HK. Enjoy the meal without rushing.",
+    "getThere": null,
+    "stars": 1,
+    "badge": null,
+    "placeId": "yat-tung-heen",
+    "optionIds": [],
+    "modes": [],
+    "city": "Hong Kong",
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-21-12",
+    "time": {
+     "start": "12:45",
+     "end": "13:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Jordan / Nathan Road Walk",
+    "titleZh": "佐敦 / 弥敦道附近散步",
+    "duration": "45 min",
+    "details": "🚶 Short post-lunch walk around Jordan/Nathan Road. Do not add Central, Causeway Bay, or another major Hong Kong attraction.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "nathan-road-jordan",
+    "optionIds": [],
+    "modes": [],
+    "city": "Hong Kong",
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-21-13",
+    "time": {
+     "start": "13:30",
+     "end": "15:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Jordan → Lok Ma Chau → Futian",
+    "titleZh": "佐敦 → 落马洲 → 福田口岸",
+    "duration": "2 hrs",
+    "details": "🚇 MTR → Lok Ma Chau → 🚶 immigration → Shenzhen. Target: Back on the Shenzhen side around 3:30 PM.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "futian-checkpoint",
+    "optionIds": [],
+    "modes": [
+     "metro",
+     "walk"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-21-14",
+    "time": {
+     "start": "15:30",
+     "end": "16:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Futian Checkpoint → Huaqiangbei 华强北",
+    "titleZh": "福田口岸 → 华强北",
+    "duration": "30 min",
+    "details": "🚇 Shenzhen Metro recommended. More predictable than afternoon road traffic.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "huaqiangbei",
+    "optionIds": [],
+    "modes": [
+     "metro"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-21-15",
+    "time": {
+     "start": "16:00",
+     "end": "18:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Huaqiangbei 华强北",
+    "titleZh": "华强北",
+    "duration": "2 hrs",
+    "details": "Shenzhen’s famous electronics district. Explore electronics markets, phones, accessories, components, and gadgets.",
+    "getThere": "🚶 Walk once you arrive.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "huaqiangbei",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-21-16",
+    "time": {
+     "start": "17:00",
+     "end": null,
+     "approx": true,
+     "label": null
+    },
+    "title": "Huaqiang Longjiang Pork Knuckle Rice 华强隆江猪脚饭",
+    "titleZh": "华强隆江猪脚饭（深纺店）",
+    "duration": "20–30 min",
+    "details": "Small tasting/snack rather than a full meal, since lunch at Yat Tung Heen will be substantial. Continue exploring Huaqiangbei afterward.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "longjiang-pork-knuckle",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-21-17",
+    "time": {
+     "start": "18:30",
+     "end": "20:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Fan Lou – Huaqiangbei Flagship 繁楼",
+    "titleZh": "繁楼（华强北总店）",
+    "duration": "1–1.5 hrs",
+    "details": "🍽️ Dinner. If you’re still full from Hong Kong, push dinner slightly later. After dinner → 🚕 Didi back to hotel.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "fan-lou-huaqiangbei",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   }
+  ]
+ },
+ "2026-12-22": {
+  "city": "Shenzhen",
+  "cities": [
+   "Shenzhen"
+  ],
+  "items": [
+   {
+    "id": "2026-12-22-18",
+    "time": {
+     "start": "09:30",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Hotel → MixC World 万象天地",
+    "titleZh": "酒店 → 万象天地 MixC World",
+    "duration": "20–30 min",
+    "details": "⭐ Theme: Shenzhen Tech + Shenzhen Bay. 🚕 Didi. Aim to arrive around 9:50 AM before stores open.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "mixc-world",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-22-19",
+    "time": {
+     "start": "10:00",
+     "end": "10:45",
+     "approx": false,
+     "label": null
+    },
+    "title": "Xiaomi Flagship Store 小米旗舰店",
+    "titleZh": "小米旗舰店",
+    "duration": "45 min",
+    "details": "📱 Explore Xiaomi phones, smart-home devices, ecosystem products, and other tech. Stay longer if something interests you.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "xiaomi-flagship",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-22-20",
+    "time": {
+     "start": "10:45",
+     "end": "10:50",
+     "approx": false,
+     "label": null
+    },
+    "title": "Xiaomi → Huawei",
+    "titleZh": "小米 → 华为",
+    "duration": "5 min",
+    "details": "🚶 Walk. Both are within the MixC World area, so there is no need to call a car.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "huawei-flagship",
+    "optionIds": [],
+    "modes": [
+     "walk"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-22-21",
+    "time": {
+     "start": "10:50",
+     "end": "11:50",
+     "approx": false,
+     "label": null
+    },
+    "title": "Huawei Flagship Store 华为旗舰店",
+    "titleZh": "华为旗舰店·深圳万象天地",
+    "duration": "1 hr",
+    "details": "📱 Explore phones, wearables, PCs, smart-living products, etc. Give yourself about an hour.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "huawei-flagship",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-22-22",
+    "time": {
+     "start": "11:50",
+     "end": "12:10",
+     "approx": false,
+     "label": null
+    },
+    "title": "MixC World → OCT-LOFT 华侨城创意园",
+    "titleZh": "万象天地 → 华侨城LOFT",
+    "duration": "15–20 min",
+    "details": "🚕 Didi. Short Nanshan trips are generally easier by car than by making metro transfers.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "oct-loft",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-22-23",
+    "time": {
+     "start": "12:10",
+     "end": "13:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Runyuan Siji Coconut Chicken 润园四季椰子鸡",
+    "titleZh": "润园四季椰子鸡（华侨城LOFT店）",
+    "duration": "1 hr 20 min",
+    "details": "🥥 Main lunch at the OCT-LOFT branch. No need to repeat the Happy Coast branch later.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "runyuan-siji-oct",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-22-24",
+    "time": {
+     "start": "13:30",
+     "end": "14:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "OCT-LOFT Creative Culture Park",
+    "titleZh": "华侨城创意文化园 LOFT",
+    "duration": "30 min",
+    "details": "🚶 Walk around after lunch and explore the creative district. Flexible stop: shorten or skip if Xiaomi/Huawei runs long.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "oct-loft",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-22-25",
+    "time": {
+     "start": "14:00",
+     "end": "14:20",
+     "approx": false,
+     "label": null
+    },
+    "title": "OCT-LOFT → Happy Coast 欢乐海岸",
+    "titleZh": "华侨城 → 欢乐海岸",
+    "duration": "20 min",
+    "details": "🚕 Didi.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "happy-coast",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-22-26",
+    "time": {
+     "start": "14:20",
+     "end": "15:50",
+     "approx": false,
+     "label": null
+    },
+    "title": "DJI Flagship Store 大疆旗舰店",
+    "titleZh": "DJI 大疆旗舰店 ⭐",
+    "duration": "1.5 hrs",
+    "details": "🚁 Explore drones, Osmo products, cameras, and demos. Of the three tech stores, this one deserves the most time.",
+    "getThere": null,
+    "stars": 1,
+    "badge": null,
+    "placeId": "dji-flagship",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-22-27",
+    "time": {
+     "start": "15:50",
+     "end": "16:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Happy Coast → Shenzhen Bay MixC 深圳湾万象城",
+    "titleZh": "欢乐海岸 → 深圳湾万象城",
+    "duration": "15–25 min",
+    "details": "☀️ Good weather + light bags: 🚲 shared bike. Hot/rainy weather or lots of shopping: 🚕 Didi.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "shenzhen-bay-mixc",
+    "optionIds": [],
+    "modes": [
+     "bike",
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-22-28",
+    "time": {
+     "start": "16:15",
+     "end": "17:20",
+     "approx": false,
+     "label": null
+    },
+    "title": "Shenzhen Bay MixC 深圳湾万象城",
+    "titleZh": "深圳湾万象城",
+    "duration": "1 hr",
+    "details": "Shop a little, get coffee, rest, and use the restroom. Do not have a full dinner here because dinner will be delivery at Talent Park.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "shenzhen-bay-mixc",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-22-29",
+    "time": {
+     "start": "17:20",
+     "end": "17:40",
+     "approx": false,
+     "label": null
+    },
+    "title": "Shenzhen Bay MixC → Talent Park",
+    "titleZh": "深圳湾万象城 → 深圳人才公园",
+    "duration": "20 min",
+    "details": "🌇 Good weather: 🚶/🚲. Bad weather: 🚕. Do not add any more attractions after this point.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "talent-park",
+    "optionIds": [],
+    "modes": [
+     "walk",
+     "bike",
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-22-30",
+    "time": {
+     "start": "17:40",
+     "end": "18:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Shenzhen Talent Park 深圳人才公园",
+    "titleZh": "深圳人才公园 ⭐⭐⭐",
+    "duration": null,
+    "details": "One of your priority experiences. Walk around the lake, enjoy the Shenzhen Bay/Houhai skyline, and find a good place to sit before ordering food.",
+    "getThere": null,
+    "stars": 3,
+    "badge": null,
+    "placeId": "talent-park",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-22-31",
+    "time": {
+     "start": "18:00",
+     "end": null,
+     "approx": true,
+     "label": null
+    },
+    "title": "Order Food Delivery at Talent Park",
+    "titleZh": "人才公园点外卖",
+    "duration": null,
+    "details": "🛵 Find your location first. Use Amap/Gaode to identify the nearest park gate or roadside pickup point and set that as the delivery location. Note: “Talent Park XX Gate. Please call when you arrive; I will meet you at the gate.”",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "talent-park",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-22-32",
+    "time": {
+     "start": "18:30",
+     "end": "19:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Dinner at Talent Park",
+    "titleZh": "人才公园晚餐",
+    "duration": "45 min",
+    "details": "🍱 Walk to the gate to collect your delivery, then return to your spot. Choose food that is easy to carry/share. Enjoy the transition from sunset to the illuminated skyline.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "talent-park",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-22-33",
+    "time": {
+     "start": "19:15",
+     "end": "20:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Talent Park Night Walk",
+    "titleZh": "人才公园夜景散步",
+    "duration": "1 hr",
+    "details": "🌃 Walk around the lake after dinner and enjoy the Houhai skyline at night. Final activity of the day. Around 8:15 PM → 🚕 Didi back to hotel.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "talent-park",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   }
+  ]
+ },
+ "2026-12-23": {
+  "city": "Shenzhen",
+  "cities": [
+   "Shenzhen",
+   "Chongqing"
+  ],
+  "items": [
+   {
+    "id": "2026-12-23-34",
+    "time": {
+     "start": "08:30",
+     "end": "09:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Wake Up / Pack",
+    "titleZh": "起床 / 收拾行李",
+    "duration": null,
+    "details": "✈️ Flight departs at 6:00 PM. Pack in the morning and leave luggage at the hotel. Do not take suitcases sightseeing.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-crystal-sz",
+    "optionIds": [],
+    "modes": [],
+    "kind": "hotel"
+   },
+   {
+    "id": "2026-12-23-35",
+    "time": {
+     "start": "09:30",
+     "end": "10:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "He Ji Boji Rice Rolls 何记簸箕炊肠粉",
+    "titleZh": "何记簸箕炊肠粉",
+    "duration": "1 hr",
+    "details": "🍜 Breakfast/brunch at the saved location on 68 Guimiao Road, Nanshan. 🚕 Didi from hotel.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "heji-changfen",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-23-36",
+    "time": {
+     "start": "10:30",
+     "end": "12:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Flexible / Catch-up Window",
+    "titleZh": "补漏 / 自由时间",
+    "duration": "2 hrs",
+    "details": "Priority: ① Everything completed → coffee/relaxed walk. ② Missed Nantou Ancient City → go there. ③ Missed Xiaomi/Huawei/DJI → use this window to visit the missed store. Do not make a special trip to Sea World today.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [],
+    "kind": "activity"
+   },
+   {
+    "id": "2026-12-23-37",
+    "time": {
+     "start": "12:30",
+     "end": "13:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Light Lunch / Coffee",
+    "titleZh": "简单午餐 / Coffee",
+    "duration": "1 hr",
+    "details": "Keep it simple and predictable. Avoid restaurants with long queues or a lengthy meal.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-23-38",
+    "time": {
+     "start": "13:30",
+     "end": "14:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Return to Hotel / Collect Luggage",
+    "titleZh": "回酒店取行李",
+    "duration": "45 min",
+    "details": "🚕 Return to hotel. Double-check passport/ID, wallet, chargers, power bank, purchases, and all luggage.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-crystal-sz",
+    "optionIds": [],
+    "modes": [],
+    "kind": "hotel"
+   },
+   {
+    "id": "2026-12-23-39",
+    "time": {
+     "start": "14:30",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Hotel → Shenzhen Bao’an International Airport",
+    "titleZh": "酒店 → 深圳宝安国际机场",
+    "duration": "45–60+ min",
+    "details": "✈️ Hard deadline: leave by 2:30 PM. With two people + luggage, 🚕 Didi is preferable to metro transfers. Enter your airline/terminal in the app.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "shenzhen-airport",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-23-40",
+    "time": {
+     "start": "15:30",
+     "end": null,
+     "approx": true,
+     "label": null
+    },
+    "title": "Shenzhen Bao’an International Airport",
+    "titleZh": "深圳宝安机场",
+    "duration": null,
+    "details": "Target arrival around 3:30 PM, giving roughly 2.5 hours for traffic delays, check-in, baggage drop, and security. If this is an international flight, leave earlier.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": "shenzhen-airport",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-23-41",
+    "time": {
+     "start": "18:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Depart Shenzhen",
+    "titleZh": "✈️ 离开深圳",
+    "duration": null,
+    "details": "End of Shenzhen trip.",
+    "getThere": null,
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [
+     "flight"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-23-00",
+    "time": {
+     "start": "20:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Chongqing → Westin",
+    "titleZh": "抵达重庆",
+    "duration": null,
+    "details": "Arrival night. Check in and settle down. The hotel is in the heart of Jiefangbei, so many restaurants and late-night food options are within walking distance.",
+    "getThere": "🚕 Navigate: 重庆解放碑威斯汀酒店 / The Westin Chongqing Liberation Square",
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-westin-cq",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-23-01",
+    "time": {
+     "start": "22:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Jiefangbei 解放碑",
+    "titleZh": "解放碑附近",
+    "duration": "1h",
+    "details": "Chongqing’s main downtown commercial district, centered around the Liberation Monument. Think bright lights, malls, restaurants and busy pedestrian streets. Tonight: just find something easy to eat—xiaomian, wontons or pork-trotter soup—and get some rest.",
+    "getThere": "🚶 Walk from hotel",
+    "stars": 0,
+    "badge": null,
+    "placeId": "jiefangbei",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   }
+  ]
+ },
+ "2026-12-24": {
+  "city": "Chongqing",
+  "cities": [
+   "Chongqing"
+  ],
+  "items": [
+   {
+    "id": "2026-12-24-02",
+    "time": {
+     "start": "10:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Qixinggang 七星岗 + Tongyuanmen 通远门",
+    "titleZh": "七星岗",
+    "duration": "20–30min",
+    "details": "Qixinggang is the surrounding neighborhood and our strategic high-elevation starting point. Tongyuanmen is one of the surviving gates/sections of Chongqing’s historic city wall. Spend ~20 min seeing the old gate and wall. More importantly, starting here lets us walk downhill through old Chongqing instead of climbing uphill.",
+    "getThere": "🚕 Navigate specifically to 通远门城墙遗址公园 / Tongyuanmen City Wall Relic Site Park. Do NOT navigate directly to the lower entrance of Mountain City Trail.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "tongyuanmen",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-24-03",
+    "time": {
+     "start": "10:30",
+     "end": "12:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Mountain City Trail 山城步道",
+    "titleZh": "山城步道",
+    "duration": "2h",
+    "details": "One of the best places to understand why Chongqing is called a “Mountain City.” This isn’t one attraction; it’s a route through old residential lanes, stone stairs, cliffs and viewpoints. See: old houses, Ren’ai Hall area, cliffside walkways, city walls and views through the layered old city. Take your time and keep moving downhill.",
+    "getThere": "🚶 Tongyuanmen → Consulate Lane → Ren’ai Hall area → Shancheng Trail → downhill toward Shibati",
+    "stars": 0,
+    "badge": null,
+    "placeId": "shancheng-trail",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-24-04",
+    "time": {
+     "start": "12:30",
+     "end": "13:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Chongqing Xiaomian 重庆小面",
+    "titleZh": "重庆小面",
+    "duration": "1h",
+    "details": "Try one of Chongqing’s signature everyday foods: spicy noodles seasoned with chili oil, Sichuan pepper, garlic, scallions and other condiments. A much more everyday/local meal than hotpot.",
+    "getThere": "Choose 十八梯邓凳面 / 李板凳面 depending on where you finish the walk.",
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [
+     "deng-deng-mian",
+     "li-ban-deng-mian"
+    ],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-24-05",
+    "time": {
+     "start": "13:30",
+     "end": "14:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Shibati / Eighteen Steps 十八梯",
+    "titleZh": "十八梯",
+    "duration": "1h",
+    "details": "A historic stairway neighborhood that connected Chongqing’s upper and lower city. It has now been extensively restored into an old-town commercial district. Do: walk the stone stair streets, photograph old-style roofs against skyscrapers, browse briefly and get a drink/snack if something looks good. It’s quite commercial and can be crowded, so 1 hour is enough for us.",
+    "getThere": "🚶 Continue downhill into Shibati. No taxi needed.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "shibati",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-24-06",
+    "time": {
+     "start": "15:00",
+     "end": "17:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Westin",
+    "titleZh": "威斯汀",
+    "duration": "2.5h",
+    "details": "Hotel break: shower, pool, nap.",
+    "getThere": "🚕 Shibati → hotel",
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-westin-cq",
+    "optionIds": [],
+    "modes": [],
+    "kind": "hotel"
+   },
+   {
+    "id": "2026-12-24-07",
+    "time": {
+     "start": "18:30",
+     "end": "20:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Jiefangbei + Hotpot",
+    "titleZh": "解放碑附近",
+    "duration": "2h",
+    "details": "First Chongqing hotpot night. Choose Chunhong / Lianjie / Dongma depending on wait time. Afterward, casually walk around Jiefangbei. No need to make Jiefangbei a separate sightseeing destination because you’re staying here.",
+    "getThere": "🚶 From hotel",
+    "stars": 0,
+    "badge": null,
+    "placeId": "jiefangbei",
+    "optionIds": [
+     "chunhong-hotpot",
+     "lianjie-hotpot",
+     "dongma-hotpot"
+    ],
+    "modes": [],
+    "kind": "meal"
+   }
+  ]
+ },
+ "2026-12-25": {
+  "city": "Chongqing",
+  "cities": [
+   "Chongqing"
+  ],
+  "items": [
+   {
+    "id": "2026-12-25-08",
+    "time": {
+     "start": "10:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Huangjueya 黄桷垭",
+    "titleZh": "黄桷垭",
+    "duration": "30min drive",
+    "details": "Today is designed around the same principle: car uphill → walk downhill. Huangjueya sits high on Nanshan and gives us the correct starting elevation.",
+    "getThere": "🚕 Navigate to 黄桷垭老街 / Huangjueya Old Street. Important: taxi UP the mountain; don’t start Huangge Ancient Trail from the bottom.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "huangjueya-old-street",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-25-09",
+    "time": {
+     "start": "10:30",
+     "end": "11:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Huangjueya Old Street 黄桷垭老街",
+    "titleZh": "Huangjueya Old Street",
+    "duration": "1h",
+    "details": "A small historic neighborhood on Nanshan with stone lanes, traditional Bayu-style houses, small shops and teahouses. It’s quieter and more local-feeling than Shibati. Do: wander the old street, see the historic houses and enjoy the slower neighborhood atmosphere.",
+    "getThere": "🚶 Walk around old street",
+    "stars": 0,
+    "badge": null,
+    "placeId": "huangjueya-old-street",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-25-10",
+    "time": {
+     "start": "11:30",
+     "end": "13:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Huangge Ancient Trail 黄葛古道",
+    "titleZh": "Huangge Ancient Road",
+    "duration": "1.5h",
+    "details": "A historic stone mountain route once used to connect the riverside with settlements on Nanshan. Today it’s a shaded walking trail with old stone steps, huge Huangge trees and remnants of the old route. Do: enjoy the forest, old paving and historic mountain-road atmosphere. We’re walking top → bottom, not hiking up.",
+    "getThere": "🚶 Huangjueya → Huangge Ancient Trail → downhill. Follow signs toward lower Nan’an. Skip Laojundong 老君洞.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "huangge-ancient-trail",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-25-11",
+    "time": {
+     "start": "13:00",
+     "end": "14:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Lunch",
+    "titleZh": "午饭",
+    "duration": "1h",
+    "details": "No destination restaurant necessary. This is intentionally a flexible local lunch.",
+    "getThere": "Eat somewhere convenient after coming down",
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-25-12",
+    "time": {
+     "start": "14:00",
+     "end": "15:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Rest / Café",
+    "titleZh": "酒店 / 咖啡",
+    "duration": "1.5h",
+    "details": "Sit down and recover. Don’t turn the itinerary into a walking marathon.",
+    "getThere": "Find café or return toward hotel depending on energy",
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [],
+    "kind": "activity"
+   },
+   {
+    "id": "2026-12-25-13",
+    "time": {
+     "start": "16:00",
+     "end": "17:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Longmenhao Old Street 龙门浩老街",
+    "titleZh": "龙门浩老街",
+    "duration": "1h15m",
+    "details": "A restored historic hillside district on the south bank of the Yangtze. The area combines early-20th-century buildings, Chongqing-style hillside lanes and excellent views toward Yuzhong. Do: wander through the old buildings and terraces and photograph Dongshuimen Bridge + Yuzhong skyline.",
+    "getThere": "🚕 Navigate: 龙门浩老街",
+    "stars": 0,
+    "badge": null,
+    "placeId": "longmenhao-old-street",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-25-14",
+    "time": {
+     "start": "17:15",
+     "end": "18:45",
+     "approx": false,
+     "label": null
+    },
+    "title": "Xiahaoli 下浩里",
+    "titleZh": "下浩里",
+    "duration": "1.5h",
+    "details": "A revitalized hillside residential neighborhood of narrow lanes, stairs, courtyards and old houses. It’s more about atmosphere than landmarks. Do: wander, find a café, photograph the old houses and stay through golden hour → blue hour.",
+    "getThere": "🚶 Continue between Longmenhao/Xiahaoli; follow the downhill direction rather than repeatedly climbing between levels.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "xiahaoli",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-25-15",
+    "time": {
+     "start": "19:00",
+     "end": "20:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Jianghu Cuisine / Taro Chicken",
+    "titleZh": "江湖菜 / 芋儿鸡",
+    "duration": "1.5h",
+    "details": "Tonight try a different side of Chongqing food: Jianghu cuisine 江湖菜 or spicy chicken with taro 芋儿鸡, rather than another hotpot.",
+    "getThere": "🚕 Dinner according to whichever restaurant is most convenient",
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [
+     "guihuo-taro-chicken",
+     "niefacai-jianghu"
+    ],
+    "modes": [],
+    "kind": "meal"
+   }
+  ]
+ },
+ "2026-12-26": {
+  "city": "Chongqing",
+  "cities": [
+   "Chongqing"
+  ],
+  "items": [
+   {
+    "id": "2026-12-26-16",
+    "time": {
+     "start": "09:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Westin → Geleshan 歌乐山",
+    "titleZh": "威斯汀 → 歌乐山",
+    "duration": "40–50min",
+    "details": "This is your main history morning. Skip Ciqikou so the day doesn’t become too crowded or exhausting.",
+    "getThere": "🚕 Navigate directly to 渣滓洞 / Zhazidong",
+    "stars": 0,
+    "badge": null,
+    "placeId": "zhazidong",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-26-17",
+    "time": {
+     "start": "10:00",
+     "end": "11:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Zhazidong 渣滓洞",
+    "titleZh": "渣滓洞",
+    "duration": "1h15m",
+    "details": "A former detention/prison site associated with Chongqing’s wartime and revolutionary history. This is not a scenic attraction—the value is understanding the history. Do: see the former cells, compound and exhibits and use the English audio guide so you understand the stories behind the site.",
+    "getThere": "Start here. Use the official English audio guide.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "zhazidong",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-26-18",
+    "time": {
+     "start": "11:15",
+     "end": "11:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Zhazidong → Baigongguan",
+    "titleZh": "渣滓洞 → 白公馆",
+    "duration": "15min",
+    "details": "These two sites are commonly visited together, but they are separate complexes on Geleshan. Save your legs for the sites themselves.",
+    "getThere": "🚌 Scenic-area shuttle or 🚕 taxi. Don’t walk just to prove you can—the terrain is hilly.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "baigongguan",
+    "optionIds": [],
+    "modes": [
+     "bus",
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-26-19",
+    "time": {
+     "start": "11:30",
+     "end": "12:45",
+     "approx": false,
+     "label": null
+    },
+    "title": "Baigongguan 白公馆",
+    "titleZh": "Bai Mansion Prison Site",
+    "duration": "1h15m",
+    "details": "Originally a private villa and later used as a detention facility. Do: walk through the former prison rooms/cells and historical displays. Together with Zhazidong, this gives much better context to the political and wartime history associated with Chongqing’s Hongyan sites.",
+    "getThere": "Navigate: 白公馆",
+    "stars": 0,
+    "badge": null,
+    "placeId": "baigongguan",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-26-20",
+    "time": {
+     "start": "13:00",
+     "end": "14:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Shapingba Lunch 沙坪坝",
+    "titleZh": "午饭",
+    "duration": "1h",
+    "details": "Simple lunch. Don’t make this another sightseeing stop.",
+    "getThere": "🚕 Head toward Shapingba / Liziba direction",
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-26-21",
+    "time": {
+     "start": "14:30",
+     "end": "15:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Liziba 李子坝",
+    "titleZh": "Liziba Viewing Platform",
+    "duration": "30min",
+    "details": "The famous spot where CRT Line 2 trains pass through a building. The dedicated platform gives you the classic view from below. Do: watch 2–3 trains, take photos/video and leave. It’s visually fun but doesn’t require an hour.",
+    "getThere": "🚕 Navigate specifically to 李子坝单轨穿楼观景平台 / Liziba Monorail Through-Building Viewing Platform — not simply “Liziba Station.”",
+    "stars": 0,
+    "badge": null,
+    "placeId": "liziba-platform",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-26-22",
+    "time": {
+     "start": "15:30",
+     "end": "18:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Westin",
+    "titleZh": "威斯汀",
+    "duration": "2.5h",
+    "details": "Proper afternoon break: pool, shower, nap. No E’ling / Testbed 2.",
+    "getThere": "🚕 Liziba → hotel",
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-westin-cq",
+    "optionIds": [],
+    "modes": [],
+    "kind": "hotel"
+   },
+   {
+    "id": "2026-12-26-23",
+    "time": {
+     "start": "18:30",
+     "end": "21:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Guanyinqiao 观音桥",
+    "titleZh": "观音桥",
+    "duration": "2.5h",
+    "details": "One of Chongqing’s biggest modern commercial/nightlife districts—malls, restaurants, street food, lights and lots of young locals. This isn’t about historic architecture. Do: walk around, people-watch, browse shops and have dinner at Chen Pangzi Hotpot 陈胖子火锅.",
+    "getThere": "🚕 Navigate to 观音桥步行街",
+    "stars": 0,
+    "badge": null,
+    "placeId": "guanyinqiao",
+    "optionIds": [
+     "chen-pangzi-hotpot"
+    ],
+    "modes": [],
+    "kind": "destination"
+   }
+  ]
+ },
+ "2026-12-27": {
+  "city": "Chongqing",
+  "cities": [
+   "Chongqing"
+  ],
+  "items": [
+   {
+    "id": "2026-12-27-24",
+    "time": {
+     "start": "10:30",
+     "end": "11:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Baixiangju 白象居",
+    "titleZh": "白象居",
+    "duration": "1h",
+    "details": "A famous example of Chongqing’s extreme vertical urban design. Because it’s built into a steep hillside, different exits connect to streets at dramatically different elevations. Do: experience the confusing floor/street relationships and look for views toward Dongshuimen Bridge and the Yangtze River Cableway.",
+    "getThere": "🚕 Navigate: 白象居. Remember this is a real residential complex—be respectful and don’t block residents.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "baixiangju",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-27-25",
+    "time": {
+     "start": "12:00",
+     "end": "13:15",
+     "approx": false,
+     "label": null
+    },
+    "title": "Jiujiu Douhua 九九豆花馆",
+    "titleZh": "九九豆花馆",
+    "duration": "1h15m",
+    "details": "Try savory douhua (soft tofu) + spicy dipping sauce + rice, preferably with a couple of homestyle dishes. This gives you a very different Chongqing meal from hotpot/noodles.",
+    "getThere": "🚕/🚶 depending on branch",
+    "stars": 0,
+    "badge": null,
+    "placeId": "jiujiu-douhua",
+    "optionIds": [],
+    "modes": [],
+    "kind": "meal"
+   },
+   {
+    "id": "2026-12-27-26",
+    "time": {
+     "start": "13:30",
+     "end": "17:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Westin",
+    "titleZh": "威斯汀",
+    "duration": "3.5h",
+    "details": "Long break before your final night: nap, pool, spa or shopping around Jiefangbei.",
+    "getThere": "🚕 Return to hotel",
+    "stars": 0,
+    "badge": null,
+    "placeId": "hotel-westin-cq",
+    "optionIds": [],
+    "modes": [],
+    "kind": "hotel"
+   },
+   {
+    "id": "2026-12-27-27",
+    "time": {
+     "start": "17:15",
+     "end": "17:45",
+     "approx": false,
+     "label": null
+    },
+    "title": "Chongqing Grand Theatre 重庆大剧院",
+    "titleZh": "威斯汀 → Chongqing Grand Theatre",
+    "duration": "30min transfer",
+    "details": "A large modern performing-arts building on the Jiangbei side of the Jialing River. We’re not really coming for the theatre itself—it’s our landmark/access point for the riverfront opposite Hongyadong.",
+    "getThere": "🚕 Navigate to 重庆大剧院, NOT Hongyadong.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "chongqing-grand-theatre",
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   },
+   {
+    "id": "2026-12-27-28",
+    "time": {
+     "start": "17:45",
+     "end": "19:30",
+     "approx": false,
+     "label": null
+    },
+    "title": "Grand Theatre Riverfront / Jiangbeizui 江滩",
+    "titleZh": "大剧院江滩 / 江北嘴江边",
+    "duration": "1h45m",
+    "details": "⭐ One of the most important scenic stops. From this side of the river you get the whole Chongqing composition instead of being trapped inside it: Qiansimen Bridge + Hongyadong + layered Yuzhong skyline. Do: arrive in daylight, walk along the river, then watch the city transition through sunset → blue hour → night.",
+    "getThere": "🚶 From Grand Theatre, walk down toward the riverfront.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "jiangbeizui-riverfront",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-27-29",
+    "time": {
+     "start": "19:30",
+     "end": "20:00",
+     "approx": false,
+     "label": null
+    },
+    "title": "Hongyadong 洪崖洞",
+    "titleZh": "洪崖洞对岸夜景",
+    "duration": "30min",
+    "details": "Hongyadong is a large cliffside sightseeing/commercial complex inspired by traditional Chongqing diaojiaolou (stilt-house) architecture. It is built vertically into the hillside and becomes dramatically illuminated at night. For us: the exterior is the attraction. Photograph it from across the river; don’t fight the crowds inside.",
+    "getThere": "Stay on the opposite/Jiangbei side of the river. Do NOT navigate into Hongyadong.",
+    "stars": 0,
+    "badge": "View Only",
+    "placeId": "hongyadong",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-27-30",
+    "time": {
+     "start": "20:00",
+     "end": "20:45",
+     "approx": false,
+     "label": null
+    },
+    "title": "Qiansimen Bridge 千厮门大桥",
+    "titleZh": "千厮门大桥",
+    "duration": "0–45min",
+    "details": "The large road-and-rail cable-stayed bridge immediately beside Hongyadong, connecting Jiangbeizui with Yuzhong. Walking across gives constantly changing views of Hongyadong, the Jialing River and the skyline. The important thing is that we’re crossing one-way toward your hotel, not walking over and then back again.",
+    "getThere": "OPTIONAL. If pedestrian traffic looks reasonable: walk Jiangbei → Qiansimen Bridge → Yuzhong. If packed: skip it and taxi back.",
+    "stars": 0,
+    "badge": null,
+    "placeId": "qiansimen-bridge",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   },
+   {
+    "id": "2026-12-27-31",
+    "time": {
+     "start": "21:00",
+     "end": null,
+     "approx": false,
+     "label": null
+    },
+    "title": "Jiefangbei 解放碑",
+    "titleZh": "解放碑",
+    "duration": null,
+    "details": "You’re back in downtown Chongqing. Finish with something casual: BBQ, xiaomian, wontons or roasted rabbit, then walk back to the hotel.",
+    "getThere": "🚶 Qiansimen Bridge → Jiefangbei → Westin",
+    "stars": 0,
+    "badge": null,
+    "placeId": "jiefangbei",
+    "optionIds": [],
+    "modes": [],
+    "kind": "destination"
+   }
+  ]
+ },
+ "2026-12-28": {
+  "city": "Chongqing",
+  "cities": [
+   "Chongqing"
+  ],
+  "items": [
+   {
+    "id": "2026-12-28-32",
+    "time": {
+     "start": null,
+     "end": null,
+     "approx": false,
+     "label": "Morning"
+    },
+    "title": "Westin → Departure",
+    "titleZh": "威斯汀",
+    "duration": null,
+    "details": "Sleep in, breakfast, pack and leave. No sightseeing scheduled so the final morning stays stress-free.",
+    "getThere": "🚕 Hotel → airport/train station",
+    "stars": 0,
+    "badge": null,
+    "placeId": null,
+    "optionIds": [],
+    "modes": [
+     "taxi"
+    ],
+    "kind": "transport"
+   }
+  ]
+ }
+}

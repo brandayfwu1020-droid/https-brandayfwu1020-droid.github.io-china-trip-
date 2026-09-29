@@ -1,0 +1,681 @@
+{
+ "generatedAt": "2026-09-27T21:46:19-07:00",
+ "title": "China Trip 2026",
+ "travelers": [
+  {
+   "id": "nb",
+   "label": "Nick & Brenda"
+  },
+  {
+   "id": "jl",
+   "label": "Jassi & Lucky"
+  }
+ ],
+ "cities": {
+  "San Francisco": {
+   "short": "SF",
+   "color": "#7A746C",
+   "zh": "旧金山",
+   "tz": "America/Los_Angeles",
+   "tzLabel": "PT"
+  },
+  "Hong Kong": {
+   "planStatus": "coming",
+   "short": "HK",
+   "color": "#0F8A7E",
+   "zh": "香港",
+   "tz": "Asia/Hong_Kong",
+   "tzLabel": "HKT"
+  },
+  "Shenzhen": {
+   "short": "SZ",
+   "color": "#2F6FD0",
+   "zh": "深圳",
+   "tz": "Asia/Shanghai",
+   "tzLabel": "China Time"
+  },
+  "Chongqing": {
+   "short": "CQ",
+   "color": "#C2412D",
+   "zh": "重庆",
+   "tz": "Asia/Shanghai",
+   "tzLabel": "China Time"
+  },
+  "Beijing": {
+   "short": "BJ",
+   "color": "#8A4FC0",
+   "zh": "北京",
+   "tz": "Asia/Shanghai",
+   "tzLabel": "China Time"
+  },
+  "Zhengzhou": {
+   "short": "ZZ",
+   "color": "#B7791F",
+   "zh": "郑州",
+   "tz": "Asia/Shanghai",
+   "tzLabel": "China Time"
+  },
+  "Shanghai": {
+   "short": "SH",
+   "color": "#3F8F3F",
+   "zh": "上海",
+   "tz": "Asia/Shanghai",
+   "tzLabel": "China Time"
+  }
+ },
+ "cityOrder": [
+  "Hong Kong",
+  "Shenzhen",
+  "Chongqing",
+  "Beijing",
+  "Shanghai",
+  "Zhengzhou"
+ ],
+ "days": [
+  {
+   "date": "2026-12-17",
+   "city": null,
+   "label": "San Francisco → Hong Kong",
+   "groups": [
+    {
+     "city": null,
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2026-12-17-san-francisco-hong-kong"
+   ],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2026-12-18",
+   "city": "Hong Kong",
+   "label": "Hong Kong",
+   "groups": [
+    {
+     "city": "Hong Kong",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2026-12-19",
+   "city": "Hong Kong",
+   "label": "Hong Kong",
+   "groups": [
+    {
+     "city": "Hong Kong",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2026-12-20",
+   "city": "Shenzhen",
+   "label": "Shenzhen",
+   "groups": [
+    {
+     "city": "Shenzhen",
+     "who": [
+      "nb"
+     ]
+    },
+    {
+     "city": "Hong Kong",
+     "who": [
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2026-12-20-hong-kong-shenzhen"
+   ],
+   "hasPlan": true,
+   "weather": "55F - 70F (based on annual average)",
+   "note": "Nick & Brenda start Shenzhen today. Jassi & Lucky are still in Hong Kong."
+  },
+  {
+   "date": "2026-12-21",
+   "city": "Shenzhen",
+   "label": "Shenzhen",
+   "groups": [
+    {
+     "city": "Shenzhen",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2026-12-21-hong-kong-shenzhen"
+   ],
+   "hasPlan": true,
+   "weather": "55F - 70F (based on annual average)",
+   "note": "Hong Kong lunch day trip. Jassi & Lucky join at lunch and come back to Shenzhen with the group."
+  },
+  {
+   "date": "2026-12-22",
+   "city": "Shenzhen",
+   "label": "Shenzhen",
+   "groups": [
+    {
+     "city": "Shenzhen",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": true,
+   "weather": "55F - 70F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-23",
+   "city": "Shenzhen",
+   "label": "Shenzhen → Chongqing",
+   "groups": [
+    {
+     "city": "Chongqing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2026-12-23-shenzhen-chongqing"
+   ],
+   "hasPlan": true,
+   "weather": "55F - 70F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-24",
+   "city": "Chongqing",
+   "label": "Chongqing",
+   "groups": [
+    {
+     "city": "Chongqing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": true,
+   "weather": "46F - 54F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-25",
+   "city": "Chongqing",
+   "label": "Chongqing",
+   "groups": [
+    {
+     "city": "Chongqing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": true,
+   "weather": "46F - 54F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-26",
+   "city": "Chongqing",
+   "label": "Chongqing",
+   "groups": [
+    {
+     "city": "Chongqing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": true,
+   "weather": "46F - 54F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-27",
+   "city": "Chongqing",
+   "label": "Chongqing",
+   "groups": [
+    {
+     "city": "Chongqing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": true,
+   "weather": "46F - 54F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-28",
+   "city": "Chongqing",
+   "label": "Chongqing → Beijing",
+   "groups": [
+    {
+     "city": "Beijing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2026-12-28-chongqing-beijing"
+   ],
+   "hasPlan": true,
+   "weather": "46F - 54F (based on annual average)",
+   "note": null
+  },
+  {
+   "date": "2026-12-29",
+   "city": "Beijing",
+   "label": "Beijing",
+   "groups": [
+    {
+     "city": "Beijing",
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2026-12-30",
+   "city": "Zhengzhou",
+   "label": "Zhengzhou",
+   "groups": [
+    {
+     "city": "Zhengzhou",
+     "who": [
+      "nb"
+     ]
+    },
+    {
+     "city": "Shanghai",
+     "who": [
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2026-12-30-beijing-zhengzhou",
+    "leg-2026-12-30-beijing-shanghai"
+   ],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2026-12-31",
+   "city": "Zhengzhou",
+   "label": "Zhengzhou",
+   "groups": [
+    {
+     "city": "Zhengzhou",
+     "who": [
+      "nb"
+     ]
+    },
+    {
+     "city": "Shanghai",
+     "who": [
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2027-01-01",
+   "city": "Zhengzhou",
+   "label": "Zhengzhou",
+   "groups": [
+    {
+     "city": "Zhengzhou",
+     "who": [
+      "nb"
+     ]
+    },
+    {
+     "city": "Shanghai",
+     "who": [
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  },
+  {
+   "date": "2027-01-02",
+   "city": null,
+   "label": "Zhengzhou → San Francisco",
+   "groups": [
+    {
+     "city": null,
+     "who": [
+      "nb",
+      "jl"
+     ]
+    }
+   ],
+   "legIds": [
+    "leg-2027-01-02-zhengzhou-san-francisco"
+   ],
+   "hasPlan": false,
+   "weather": null,
+   "note": null
+  }
+ ],
+ "stays": [
+  {
+   "id": "stay-hong-kong",
+   "city": "Hong Kong",
+   "hotelPlaceId": "hotel-mira-hk",
+   "hotelName": "Mira Hotel",
+   "checkIn": "2026-12-18",
+   "checkOut": "2026-12-20",
+   "checkInTime": "14:00",
+   "checkOutTime": "12:00",
+   "who": null,
+   "note": "Jassi & Lucky stay until Dec 21.",
+   "datesFor": {
+    "jl": {
+     "checkOut": "2026-12-21"
+    }
+   }
+  },
+  {
+   "id": "stay-shenzhen",
+   "city": "Shenzhen",
+   "hotelPlaceId": "hotel-crystal-sz",
+   "hotelName": "Crystal Hotel Shenzhen",
+   "checkIn": "2026-12-20",
+   "checkOut": "2026-12-23",
+   "checkInTime": "14:00",
+   "checkOutTime": "12:00",
+   "who": null,
+   "note": "Jassi & Lucky arrive Dec 21 afternoon.",
+   "datesFor": {
+    "jl": {
+     "checkIn": "2026-12-21"
+    }
+   }
+  },
+  {
+   "id": "stay-chongqing",
+   "city": "Chongqing",
+   "hotelPlaceId": "hotel-westin-cq",
+   "hotelName": "The Westin Chongqing Liberation Square",
+   "checkIn": "2026-12-23",
+   "checkOut": "2026-12-28",
+   "checkInTime": "15:00",
+   "checkOutTime": "12:00",
+   "who": null,
+   "note": null,
+   "datesFor": {}
+  },
+  {
+   "id": "stay-beijing",
+   "city": "Beijing",
+   "hotelPlaceId": "hotel-swissotel-bj",
+   "hotelName": "Swissotel Beijing Hong Kong Macau Center",
+   "checkIn": "2026-12-28",
+   "checkOut": "2026-12-30",
+   "checkInTime": null,
+   "checkOutTime": null,
+   "who": null,
+   "note": null,
+   "datesFor": {}
+  },
+  {
+   "id": "stay-shanghai-jl",
+   "city": "Shanghai",
+   "hotelPlaceId": null,
+   "hotelName": null,
+   "checkIn": "2026-12-30",
+   "checkOut": "2027-01-02",
+   "checkInTime": null,
+   "checkOutTime": null,
+   "who": [
+    "jl"
+   ],
+   "note": "No detailed plan in this app.",
+   "datesFor": {}
+  },
+  {
+   "id": "stay-zhengzhou",
+   "city": "Zhengzhou",
+   "hotelPlaceId": null,
+   "hotelName": null,
+   "checkIn": "2026-12-30",
+   "checkOut": "2027-01-02",
+   "checkInTime": null,
+   "checkOutTime": null,
+   "who": [
+    "nb"
+   ],
+   "note": null,
+   "datesFor": {}
+  }
+ ],
+ "legs": [
+  {
+   "id": "leg-2026-12-17-san-francisco-hong-kong",
+   "mode": "flight",
+   "date": "2026-12-17",
+   "from": "San Francisco",
+   "to": "Hong Kong",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-17",
+    "time": "11:45"
+   },
+   "arrive": {
+    "date": "2026-12-18",
+    "time": "19:20"
+   },
+   "timeLabel": null,
+   "extra": null,
+   "who": null,
+   "note": null
+  },
+  {
+   "id": "leg-2026-12-20-hong-kong-shenzhen",
+   "mode": "train/bus",
+   "date": "2026-12-20",
+   "from": "Hong Kong",
+   "to": "Shenzhen",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-20",
+    "time": null
+   },
+   "arrive": {
+    "date": "2026-12-20",
+    "time": null
+   },
+   "timeLabel": "Around noon (flexible)",
+   "extra": null,
+   "who": [
+    "nb"
+   ],
+   "note": null
+  },
+  {
+   "id": "leg-2026-12-21-hong-kong-shenzhen",
+   "mode": "train",
+   "date": "2026-12-21",
+   "from": "Hong Kong",
+   "to": "Shenzhen",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-21",
+    "time": null
+   },
+   "arrive": {
+    "date": "2026-12-21",
+    "time": null
+   },
+   "timeLabel": "Afternoon, with the group after lunch",
+   "extra": null,
+   "who": [
+    "jl"
+   ],
+   "note": "Jassi & Lucky meet the group in Hong Kong for lunch, then cross back to Shenzhen together."
+  },
+  {
+   "id": "leg-2026-12-23-shenzhen-chongqing",
+   "mode": "flight",
+   "date": "2026-12-23",
+   "from": "Shenzhen",
+   "to": "Chongqing",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-23",
+    "time": "18:15"
+   },
+   "arrive": {
+    "date": "2026-12-23",
+    "time": "20:35"
+   },
+   "timeLabel": null,
+   "extra": null,
+   "who": null,
+   "note": null
+  },
+  {
+   "id": "leg-2026-12-28-chongqing-beijing",
+   "mode": "flight",
+   "date": "2026-12-28",
+   "from": "Chongqing",
+   "to": "Beijing",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-28",
+    "time": "12:30"
+   },
+   "arrive": {
+    "date": "2026-12-28",
+    "time": "14:55"
+   },
+   "timeLabel": null,
+   "extra": null,
+   "who": null,
+   "note": null
+  },
+  {
+   "id": "leg-2026-12-30-beijing-zhengzhou",
+   "mode": "train",
+   "date": "2026-12-30",
+   "from": "Beijing",
+   "to": "Zhengzhou",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-30",
+    "time": null
+   },
+   "arrive": {
+    "date": "2026-12-30",
+    "time": null
+   },
+   "timeLabel": "TBD - Flexible",
+   "extra": null,
+   "who": [
+    "nb"
+   ],
+   "note": null
+  },
+  {
+   "id": "leg-2026-12-30-beijing-shanghai",
+   "mode": "tbd",
+   "date": "2026-12-30",
+   "from": "Beijing",
+   "to": "Shanghai",
+   "toInferred": false,
+   "depart": {
+    "date": "2026-12-30",
+    "time": null
+   },
+   "arrive": {
+    "date": "2026-12-30",
+    "time": null
+   },
+   "timeLabel": "TBD",
+   "extra": null,
+   "who": [
+    "jl"
+   ],
+   "note": null
+  },
+  {
+   "id": "leg-2027-01-02-zhengzhou-san-francisco",
+   "mode": "flight",
+   "date": "2027-01-02",
+   "from": "Zhengzhou",
+   "to": "San Francisco",
+   "toInferred": false,
+   "depart": {
+    "date": "2027-01-02",
+    "time": "16:15"
+   },
+   "arrive": {
+    "date": "2027-01-02",
+    "time": "21:00"
+   },
+   "timeLabel": null,
+   "extra": "20h 45m, 1 stop",
+   "who": [
+    "nb"
+   ],
+   "note": null
+  }
+ ]
+}

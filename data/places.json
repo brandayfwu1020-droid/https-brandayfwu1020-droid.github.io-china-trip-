@@ -1,0 +1,1174 @@
+[
+ {
+  "name": "The Mira Hong Kong",
+  "nameZh": null,
+  "city": "Hong Kong",
+  "category": "hotel",
+  "intro": "Our Hong Kong hotel.",
+  "tips": null,
+  "address": null,
+  "addressZh": null,
+  "id": "hotel-mira-hk",
+  "visits": [],
+  "needsReview": false
+ },
+ {
+  "name": "Jordan MTR Station",
+  "nameZh": "佐敦站",
+  "city": "Hong Kong",
+  "category": "transit",
+  "intro": "An MTR station on Nathan Road in Kowloon, the closest stop to Eaton HK.",
+  "tips": "Use Exit B2 for Eaton HK (about a 5-minute walk).",
+  "addressZh": "香港九龙 佐敦站",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "jordan-station",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "08:50",
+    "itemId": "2026-12-21-08"
+   }
+  ]
+ },
+ {
+  "name": "Eaton HK",
+  "nameZh": "香港逸东酒店",
+  "city": "Hong Kong",
+  "category": "sight",
+  "intro": "A design-forward hotel on Nathan Road, home to Yat Tung Heen. We're here for lunch, not to stay.",
+  "tips": null,
+  "address": "380 Nathan Road, Jordan, Kowloon",
+  "addressZh": "香港九龙弥敦道380号 香港逸东酒店",
+  "needsReview": true,
+  "reviewFields": [
+   "nameZh",
+   "addressZh"
+  ],
+  "id": "eaton-hk",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "10:20",
+    "itemId": "2026-12-21-10"
+   }
+  ]
+ },
+ {
+  "name": "Yat Tung Heen",
+  "nameZh": "逸东轩",
+  "city": "Hong Kong",
+  "category": "restaurant",
+  "intro": "A Michelin-recognised Cantonese restaurant inside Eaton HK, known for dim sum and roast meats. The main reason for the Hong Kong day trip.",
+  "tips": "Reservation at 11:00 AM, on B2 of Eaton HK. Dim sum and barbecued pork (叉烧) are the classics.",
+  "address": "B2, Eaton HK, 380 Nathan Road, Jordan, Kowloon",
+  "addressZh": "香港九龙弥敦道380号 香港逸东酒店B2层",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "yat-tung-heen",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "11:00",
+    "itemId": "2026-12-21-11"
+   }
+  ]
+ },
+ {
+  "name": "Jordan / Nathan Road",
+  "nameZh": "佐敦 · 弥敦道",
+  "city": "Hong Kong",
+  "category": "sight",
+  "intro": "Kowloon's main avenue, lined with neon signs, shops and tea restaurants. A short walk to digest after lunch.",
+  "tips": "Don't add Central or Causeway Bay; we need to head back to Shenzhen.",
+  "addressZh": "香港九龙佐敦 弥敦道",
+  "needsReview": true,
+  "reviewFields": [
+   "intro"
+  ],
+  "id": "nathan-road-jordan",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "12:45",
+    "itemId": "2026-12-21-12"
+   }
+  ]
+ },
+ {
+  "name": "Crystal Hotel Shenzhen Bay MixC",
+  "nameZh": null,
+  "city": "Shenzhen",
+  "category": "hotel",
+  "intro": "Our Shenzhen hotel, next to Shenzhen Bay MixC in Nanshan.",
+  "tips": null,
+  "address": null,
+  "addressZh": null,
+  "id": "hotel-crystal-sz",
+  "visits": [
+   {
+    "date": "2026-12-20",
+    "time": null,
+    "itemId": "2026-12-20-00"
+   },
+   {
+    "date": "2026-12-23",
+    "time": "08:30",
+    "itemId": "2026-12-23-34"
+   }
+  ],
+  "needsReview": false
+ },
+ {
+  "name": "Nantou Ancient City",
+  "nameZh": "南头古城",
+  "city": "Shenzhen",
+  "category": "sight",
+  "intro": "A historic walled neighborhood that pre-dates modern Shenzhen by centuries. Its old lanes are now full of cafés, small shops and exhibitions. It's a nice contrast to the high-tech Shenzhen we see later in the trip.",
+  "tips": "No need to tick off sights; just wander slowly on foot.",
+  "addressZh": "广东省深圳市南山区南头古城",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "nantou-ancient-city",
+  "visits": [
+   {
+    "date": "2026-12-20",
+    "time": "14:30",
+    "itemId": "2026-12-20-01"
+   }
+  ]
+ },
+ {
+  "name": "Milk Buffalo Queen Dessert Shop (Nanshan)",
+  "nameZh": "水牛奶皇后糖水铺（南山店）",
+  "city": "Shenzhen",
+  "category": "restaurant",
+  "intro": "A Cantonese dessert shop known for buffalo-milk puddings and sweet soups (糖水). An afternoon rest and sugar stop.",
+  "tips": "Try a buffalo-milk double-skin milk pudding (双皮奶). Keep it light; dinner is soon.",
+  "addressZh": "广东省深圳市南山区 水牛奶皇后糖水铺（南山店）",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "milk-buffalo-queen",
+  "visits": [
+   {
+    "date": "2026-12-20",
+    "time": "16:30",
+    "itemId": "2026-12-20-02"
+   }
+  ]
+ },
+ {
+  "name": "Shekou Wu Ji Crispy Chicken & Oyster Chicken Hotpot",
+  "nameZh": "蛇口吴记·脆皮鸡·生蚝鸡煲",
+  "city": "Shenzhen",
+  "category": "restaurant",
+  "intro": "A local Shekou restaurant known for crispy-skin chicken and oyster-and-chicken claypot. Tonight's main dinner.",
+  "tips": "Order the crispy chicken (脆皮鸡) and the oyster chicken pot (生蚝鸡煲).",
+  "addressZh": "广东省深圳市南山区蛇口 吴记脆皮鸡生蚝鸡煲",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "shekou-wuji",
+  "visits": [
+   {
+    "date": "2026-12-20",
+    "time": "18:00",
+    "itemId": "2026-12-20-04"
+   }
+  ]
+ },
+ {
+  "name": "Sea World (Shekou)",
+  "nameZh": "海上世界",
+  "city": "Shenzhen",
+  "category": "nightlife",
+  "intro": "A waterfront plaza in Shekou built around a retired cruise ship, with restaurants, bars and a light show area. Optional evening stroll if we still have energy.",
+  "tips": "Low priority. Skip it if everyone's tired.",
+  "addressZh": "广东省深圳市南山区蛇口 海上世界",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "sea-world-shekou",
+  "visits": [
+   {
+    "date": "2026-12-20",
+    "time": "19:45",
+    "itemId": "2026-12-20-05"
+   }
+  ]
+ },
+ {
+  "name": "Futian Checkpoint",
+  "nameZh": "福田口岸",
+  "city": "Shenzhen",
+  "category": "transit",
+  "intro": "A land border crossing between Shenzhen and Hong Kong. It connects directly to Lok Ma Chau MTR station on the Hong Kong side.",
+  "tips": "Have passports and Hong Kong/mainland entry documents ready. Allow 30–45 minutes to cross.",
+  "addressZh": "广东省深圳市福田区 福田口岸",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "futian-checkpoint",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "08:10",
+    "itemId": "2026-12-21-07"
+   }
+  ]
+ },
+ {
+  "name": "Huaqiangbei",
+  "nameZh": "华强北",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "Shenzhen's famous electronics district: floors of stalls selling phones, accessories, components and gadgets. It shows the city's electronics industry up close, unlike the polished brand flagships.",
+  "tips": "Explore on foot. Compare prices before buying.",
+  "addressZh": "广东省深圳市福田区 华强北路",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "huaqiangbei",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "16:00",
+    "itemId": "2026-12-21-15"
+   }
+  ]
+ },
+ {
+  "name": "Huaqiang Longjiang Pork Knuckle Rice (Shenfang)",
+  "nameZh": "华强隆江猪脚饭（深纺店）",
+  "city": "Shenzhen",
+  "category": "restaurant",
+  "intro": "A casual spot for Chaoshan-style braised pork knuckle over rice. A small snack between Huaqiangbei browsing, not a full meal.",
+  "tips": "Share a portion; dinner is at Fan Lou.",
+  "addressZh": "广东省深圳市福田区华强北 华强隆江猪脚饭（深纺店）",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "longjiang-pork-knuckle",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "17:00",
+    "itemId": "2026-12-21-16"
+   }
+  ]
+ },
+ {
+  "name": "Fan Lou (Huaqiangbei Flagship)",
+  "nameZh": "繁楼（华强北总店）",
+  "city": "Shenzhen",
+  "category": "restaurant",
+  "intro": "A popular Cantonese restaurant known for dim sum and classic dishes in a retro Hong Kong–style setting. Tonight's dinner.",
+  "tips": "Expect a wait at peak times.",
+  "addressZh": "广东省深圳市福田区华强北 繁楼（华强北总店）",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "fan-lou-huaqiangbei",
+  "visits": [
+   {
+    "date": "2026-12-21",
+    "time": "18:30",
+    "itemId": "2026-12-21-17"
+   }
+  ]
+ },
+ {
+  "name": "MixC World",
+  "nameZh": "万象天地",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "A modern open-air shopping district in Nanshan's tech neighborhood. Home to the Xiaomi and Huawei flagship stores.",
+  "tips": "Stores open at 10:00 AM.",
+  "addressZh": "广东省深圳市南山区深南大道9668号 华润万象天地",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "mixc-world",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "09:30",
+    "itemId": "2026-12-22-18"
+   }
+  ]
+ },
+ {
+  "name": "Xiaomi Flagship Store (MixC World)",
+  "nameZh": "小米旗舰店（万象天地）",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "Xiaomi's large showroom for phones, smart-home devices and its whole product ecosystem. One of the three tech brands we most wanted to see.",
+  "tips": "Look for products not sold in the US, like Xiaomi's EVs and smart-home gear.",
+  "addressZh": "广东省深圳市南山区 万象天地 小米之家旗舰店",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips",
+   "nameZh",
+   "addressZh"
+  ],
+  "id": "xiaomi-flagship",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "10:00",
+    "itemId": "2026-12-22-19"
+   }
+  ]
+ },
+ {
+  "name": "Huawei Flagship Store (MixC World)",
+  "nameZh": "华为旗舰店·深圳万象天地",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "Huawei's big flagship store: phones, wearables, laptops and smart-living products you won't see in the US.",
+  "tips": null,
+  "addressZh": "广东省深圳市南山区 万象天地 华为旗舰店",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "huawei-flagship",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "10:50",
+    "itemId": "2026-12-22-21"
+   }
+  ]
+ },
+ {
+  "name": "OCT-LOFT Creative Culture Park",
+  "nameZh": "华侨城创意文化园",
+  "city": "Shenzhen",
+  "category": "sight",
+  "intro": "Former factory buildings turned into a creative district of galleries, design shops and cafés. A walk after lunch.",
+  "tips": "Flexible stop: shorten or skip if the tech stores run long.",
+  "addressZh": "广东省深圳市南山区锦绣北街2号 华侨城创意文化园",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "oct-loft",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "13:30",
+    "itemId": "2026-12-22-24"
+   }
+  ]
+ },
+ {
+  "name": "Runyuan Siji Coconut Chicken (OCT-LOFT)",
+  "nameZh": "润园四季椰子鸡（华侨城LOFT店）",
+  "city": "Shenzhen",
+  "category": "restaurant",
+  "intro": "A well-known Shenzhen coconut-chicken hotpot: fresh coconut water as broth with free-range chicken. A light, very local lunch.",
+  "tips": "Drink a bowl of the broth before adding meat. The lime-chili dipping sauce is key.",
+  "addressZh": "广东省深圳市南山区华侨城创意文化园 润园四季椰子鸡（华侨城LOFT店）",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "runyuan-siji-oct",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "12:10",
+    "itemId": "2026-12-22-23"
+   }
+  ]
+ },
+ {
+  "name": "Happy Coast",
+  "nameZh": "欢乐海岸",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "A waterfront shopping and entertainment area in Nanshan, home to the DJI flagship store.",
+  "tips": null,
+  "addressZh": "广东省深圳市南山区白石路东8号 欢乐海岸",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "happy-coast",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "14:00",
+    "itemId": "2026-12-22-25"
+   }
+  ]
+ },
+ {
+  "name": "DJI Flagship Store",
+  "nameZh": "大疆旗舰店",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "Flagship of Shenzhen-born DJI, the world's leading drone maker. Hands-on demos of drones, Osmo cameras and gimbals.",
+  "tips": "Of the three tech stores, give this one the most time (~1.5 hrs).",
+  "addressZh": "广东省深圳市南山区 欢乐海岸 大疆旗舰店",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "dji-flagship",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "14:20",
+    "itemId": "2026-12-22-26"
+   }
+  ]
+ },
+ {
+  "name": "Shenzhen Bay MixC",
+  "nameZh": "深圳湾万象城",
+  "city": "Shenzhen",
+  "category": "shopping",
+  "intro": "A large, upscale mall by Shenzhen Bay (not the same as MixC World from the morning). A stop for coffee, a rest and a restroom break.",
+  "tips": "Don't eat a full dinner here; dinner is delivery at Talent Park.",
+  "addressZh": "广东省深圳市南山区 深圳湾万象城",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "shenzhen-bay-mixc",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "16:15",
+    "itemId": "2026-12-22-28"
+   }
+  ]
+ },
+ {
+  "name": "Shenzhen Talent Park",
+  "nameZh": "深圳人才公园",
+  "city": "Shenzhen",
+  "category": "park",
+  "intro": "A lakeside park facing the Houhai skyline, one of the best places to watch Shenzhen light up at night. A top priority: we stay from sunset through dinner and the night walk.",
+  "tips": "For food delivery, set the pickup to the nearest park gate in Amap and add a note: “人才公园XX门，到后电话联系，我出来取。”",
+  "addressZh": "广东省深圳市南山区 深圳人才公园",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "talent-park",
+  "visits": [
+   {
+    "date": "2026-12-22",
+    "time": "17:40",
+    "itemId": "2026-12-22-30"
+   }
+  ]
+ },
+ {
+  "name": "He Ji Boji Rice Rolls",
+  "nameZh": "何记簸箕炊肠粉",
+  "city": "Shenzhen",
+  "category": "restaurant",
+  "intro": "A local breakfast spot for Cantonese steamed rice rolls (肠粉) made fresh on bamboo trays. Our brunch on the last Shenzhen morning.",
+  "tips": "Get rice rolls with egg and beef or pork.",
+  "addressZh": "广东省深圳市南山区桂庙路68号 何记簸箕炊肠粉",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "tips"
+  ],
+  "id": "heji-changfen",
+  "visits": [
+   {
+    "date": "2026-12-23",
+    "time": "09:30",
+    "itemId": "2026-12-23-35"
+   }
+  ]
+ },
+ {
+  "name": "Shenzhen Bao'an International Airport",
+  "nameZh": "深圳宝安国际机场",
+  "city": "Shenzhen",
+  "category": "transit",
+  "intro": "Shenzhen's main airport, where we fly to Chongqing.",
+  "tips": "Arrive around 2.5 hours before the flight.",
+  "addressZh": "广东省深圳市宝安区 深圳宝安国际机场",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "shenzhen-airport",
+  "visits": [
+   {
+    "date": "2026-12-23",
+    "time": "15:30",
+    "itemId": "2026-12-23-40"
+   }
+  ]
+ },
+ {
+  "name": "Jiefangbei Pedestrian Street",
+  "nameZh": "解放碑步行街",
+  "city": "Chongqing",
+  "category": "shopping",
+  "intro": "Chongqing's downtown heart, centered on the Liberation Monument: bright lights, malls, restaurants and busy pedestrian streets. Our hotel is right here.",
+  "tips": "Great for late-night noodles (小面), wontons (抄手) and pork-trotter soup (蹄花汤).",
+  "addressZh": "重庆市渝中区 解放碑步行街",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "jiefangbei",
+  "visits": [
+   {
+    "date": "2026-12-23",
+    "time": "22:00",
+    "itemId": "2026-12-23-01"
+   },
+   {
+    "date": "2026-12-24",
+    "time": "18:30",
+    "itemId": "2026-12-24-07"
+   },
+   {
+    "date": "2026-12-27",
+    "time": "21:00",
+    "itemId": "2026-12-27-31"
+   }
+  ]
+ },
+ {
+  "name": "The Westin Chongqing Liberation Square",
+  "nameZh": "重庆解放碑威斯汀酒店",
+  "city": "Chongqing",
+  "category": "hotel",
+  "intro": "Our Chongqing hotel, right in the middle of Jiefangbei. Restaurants and late-night food are within walking distance.",
+  "tips": null,
+  "address": "No. 222 Xin Hua Road, Chongqing",
+  "addressZh": null,
+  "id": "hotel-westin-cq",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "15:00",
+    "itemId": "2026-12-24-06"
+   },
+   {
+    "date": "2026-12-26",
+    "time": "15:30",
+    "itemId": "2026-12-26-22"
+   },
+   {
+    "date": "2026-12-27",
+    "time": "13:30",
+    "itemId": "2026-12-27-26"
+   }
+  ],
+  "needsReview": false
+ },
+ {
+  "name": "Tongyuanmen City Wall Relic Park (Qixinggang)",
+  "nameZh": "通远门城墙遗址公园",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "One of the surviving gates of Chongqing's old city wall, in the Qixinggang neighborhood. It's our high starting point, so the rest of the morning is downhill.",
+  "tips": "Tell the taxi 通远门城墙遗址公园, not the lower entrance of the Mountain City Trail.",
+  "addressZh": "重庆市渝中区七星岗 通远门城墙遗址公园",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "tongyuanmen",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "10:00",
+    "itemId": "2026-12-24-02"
+   }
+  ]
+ },
+ {
+  "name": "Mountain City Trail",
+  "nameZh": "山城步道",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A walking route through old residential lanes, stone stairs, cliffs and viewpoints. It shows why Chongqing is called the “Mountain City”.",
+  "tips": "Route: Tongyuanmen → Consulate Lane → Ren'ai Hall → downhill toward Shibati.",
+  "addressZh": "重庆市渝中区 山城步道",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "shancheng-trail",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "10:30",
+    "itemId": "2026-12-24-03"
+   }
+  ]
+ },
+ {
+  "name": "Shibati Deng Deng Noodles",
+  "nameZh": "十八梯邓凳面",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "A local Chongqing noodle (小面) shop near Shibati. Spicy, numbing and cheap.",
+  "tips": "Say 微辣 (wēi là) for mild spice.",
+  "addressZh": "重庆市渝中区十八梯 邓凳面",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "deng-deng-mian",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "12:30",
+    "itemId": "2026-12-24-04"
+   }
+  ]
+ },
+ {
+  "name": "Li Ban Deng Noodles",
+  "nameZh": "李板凳面",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "Another popular Chongqing noodle (小面) shop. Pick whichever is closer when the walk ends.",
+  "tips": "Say 微辣 (wēi là) for mild spice.",
+  "addressZh": "重庆市渝中区 李板凳面",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "li-ban-deng-mian",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "12:30",
+    "itemId": "2026-12-24-04"
+   }
+  ]
+ },
+ {
+  "name": "Shibati (Eighteen Steps)",
+  "nameZh": "十八梯",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A historic stairway neighborhood that once linked Chongqing's upper and lower city. It's now a restored old-town area with shops and snacks. Commercial and busy, so we just pass through.",
+  "tips": "Photograph old-style roofs against skyscrapers.",
+  "addressZh": "重庆市渝中区 十八梯传统风貌区",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "shibati",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "13:30",
+    "itemId": "2026-12-24-05"
+   }
+  ]
+ },
+ {
+  "name": "Chunhong Hotpot",
+  "nameZh": "春红火锅",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "One of three hotpot options near Jiefangbei for our first Chongqing hotpot night. Pick whichever has the shortest wait.",
+  "tips": "Order a split (鸳鸯) pot if anyone wants a non-spicy side. Try beef tripe (毛肚) and duck intestine (鸭肠).",
+  "addressZh": "重庆市渝中区解放碑附近 春红火锅",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "nameZh",
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "chunhong-hotpot",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "18:30",
+    "itemId": "2026-12-24-07"
+   }
+  ]
+ },
+ {
+  "name": "Lianjie Hotpot",
+  "nameZh": "莲姐火锅",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "One of three hotpot options near Jiefangbei. Pick whichever has the shortest wait.",
+  "tips": "Order a split (鸳鸯) pot if anyone wants a non-spicy side.",
+  "addressZh": "重庆市渝中区解放碑附近 莲姐火锅",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "nameZh",
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "lianjie-hotpot",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "18:30",
+    "itemId": "2026-12-24-07"
+   }
+  ]
+ },
+ {
+  "name": "Dongma Hotpot",
+  "nameZh": "董妈火锅",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "One of three hotpot options near Jiefangbei. Pick whichever has the shortest wait.",
+  "tips": "Order a split (鸳鸯) pot if anyone wants a non-spicy side.",
+  "addressZh": "重庆市渝中区解放碑附近 董妈火锅",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "nameZh",
+   "intro",
+   "tips",
+   "addressZh"
+  ],
+  "id": "dongma-hotpot",
+  "visits": [
+   {
+    "date": "2026-12-24",
+    "time": "18:30",
+    "itemId": "2026-12-24-07"
+   }
+  ]
+ },
+ {
+  "name": "Huangjueya Old Street",
+  "nameZh": "黄桷垭老街",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A small historic street high on Nanshan, with stone lanes, traditional houses, little shops and teahouses. Quieter and more local than Shibati, and the day's highest point.",
+  "tips": "Taxi UP here; don't start the Huangge trail from the bottom.",
+  "addressZh": "重庆市南岸区 黄桷垭老街",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "huangjueya-old-street",
+  "visits": [
+   {
+    "date": "2026-12-25",
+    "time": "10:30",
+    "itemId": "2026-12-25-09"
+   }
+  ]
+ },
+ {
+  "name": "Huangge Ancient Trail",
+  "nameZh": "黄葛古道",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A historic stone mountain road that linked the riverside with Nanshan. Now a shaded trail with old steps and huge Huangge trees. We walk it top to bottom.",
+  "tips": "Skip Laojundong (老君洞); it adds climbing.",
+  "addressZh": "重庆市南岸区 黄葛古道",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "huangge-ancient-trail",
+  "visits": [
+   {
+    "date": "2026-12-25",
+    "time": "11:30",
+    "itemId": "2026-12-25-10"
+   }
+  ]
+ },
+ {
+  "name": "Longmenhao Old Street",
+  "nameZh": "龙门浩老街",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A restored hillside district on the Yangtze's south bank, with early-20th-century buildings and great views toward the Yuzhong skyline.",
+  "tips": "Photograph Dongshuimen Bridge with the skyline behind it.",
+  "addressZh": "重庆市南岸区 龙门浩老街",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "longmenhao-old-street",
+  "visits": [
+   {
+    "date": "2026-12-25",
+    "time": "16:00",
+    "itemId": "2026-12-25-13"
+   }
+  ]
+ },
+ {
+  "name": "Xiahaoli",
+  "nameZh": "下浩里",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A revitalized hillside neighborhood of narrow lanes, stairs and old courtyards, more about atmosphere than landmarks. We find a café and stay through golden hour into blue hour.",
+  "tips": null,
+  "addressZh": "重庆市南岸区 下浩里",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "xiahaoli",
+  "visits": [
+   {
+    "date": "2026-12-25",
+    "time": "17:15",
+    "itemId": "2026-12-25-14"
+   }
+  ]
+ },
+ {
+  "name": "Guihuo Roast Chicken & Taro Chicken",
+  "nameZh": "鬼火烧鸡芋儿鸡",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "A dinner option for spicy chicken with taro (芋儿鸡), a Chongqing favorite that isn't hotpot.",
+  "tips": null,
+  "addressZh": "重庆市 鬼火烧鸡芋儿鸡",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "intro",
+   "addressZh"
+  ],
+  "id": "guihuo-taro-chicken",
+  "visits": [
+   {
+    "date": "2026-12-25",
+    "time": "19:00",
+    "itemId": "2026-12-25-15"
+   }
+  ]
+ },
+ {
+  "name": "Nie Facai Jianghu Cuisine",
+  "nameZh": "聂发财江湖菜",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "A dinner option for Jianghu cuisine (江湖菜): bold, rustic Chongqing home-style dishes.",
+  "tips": null,
+  "addressZh": "重庆市 聂发财江湖菜",
+  "needsReview": true,
+  "reviewFields": [
+   "name",
+   "intro",
+   "addressZh"
+  ],
+  "id": "niefacai-jianghu",
+  "visits": [
+   {
+    "date": "2026-12-25",
+    "time": "19:00",
+    "itemId": "2026-12-25-15"
+   }
+  ]
+ },
+ {
+  "name": "Zhazidong Prison Site",
+  "nameZh": "渣滓洞",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A former detention site on Geleshan tied to Chongqing's wartime and revolutionary history. Not a scenic stop; the value is the history.",
+  "tips": "Use the official English audio guide. Entry is free but may need a real-name reservation in advance.",
+  "addressZh": "重庆市沙坪坝区歌乐山 渣滓洞",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "zhazidong",
+  "visits": [
+   {
+    "date": "2026-12-26",
+    "time": "10:00",
+    "itemId": "2026-12-26-17"
+   }
+  ]
+ },
+ {
+  "name": "Baigongguan (Bai Mansion) Prison Site",
+  "nameZh": "白公馆",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "Originally a private villa, later used as a detention facility. Together with Zhazidong, it gives context to the Hongyan history sites.",
+  "tips": "Take the scenic-area shuttle or a taxi from Zhazidong; the terrain is hilly.",
+  "addressZh": "重庆市沙坪坝区歌乐山 白公馆",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "baigongguan",
+  "visits": [
+   {
+    "date": "2026-12-26",
+    "time": "11:30",
+    "itemId": "2026-12-26-19"
+   }
+  ]
+ },
+ {
+  "name": "Liziba Monorail Viewing Platform",
+  "nameZh": "李子坝单轨穿楼观景平台",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "The famous spot where Line 2 monorail trains pass straight through an apartment building. Watch two or three trains, take videos, move on.",
+  "tips": "Navigate to the viewing platform (观景平台), not just “Liziba Station”.",
+  "addressZh": "重庆市渝中区 李子坝单轨穿楼观景平台",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "liziba-platform",
+  "visits": [
+   {
+    "date": "2026-12-26",
+    "time": "14:30",
+    "itemId": "2026-12-26-21"
+   }
+  ]
+ },
+ {
+  "name": "Guanyinqiao Pedestrian Street",
+  "nameZh": "观音桥步行街",
+  "city": "Chongqing",
+  "category": "nightlife",
+  "intro": "One of Chongqing's biggest modern shopping and nightlife districts, with malls, street food, lights and lots of young locals.",
+  "tips": "Dinner here at Chen Pangzi Hotpot.",
+  "addressZh": "重庆市江北区 观音桥步行街",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "guanyinqiao",
+  "visits": [
+   {
+    "date": "2026-12-26",
+    "time": "18:30",
+    "itemId": "2026-12-26-23"
+   }
+  ]
+ },
+ {
+  "name": "Chen Pangzi Hotpot",
+  "nameZh": "陈胖子火锅",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "Tonight's hotpot dinner in Guanyinqiao.",
+  "tips": "Order a split (鸳鸯) pot if anyone wants a non-spicy side.",
+  "addressZh": "重庆市江北区观音桥 陈胖子火锅",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "chen-pangzi-hotpot",
+  "visits": [
+   {
+    "date": "2026-12-26",
+    "time": "18:30",
+    "itemId": "2026-12-26-23"
+   }
+  ]
+ },
+ {
+  "name": "Baixiangju",
+  "nameZh": "白象居",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A hillside residential complex famous for Chongqing's ‘8D’ vertical layout: different floors open onto streets at different heights. Great views of Dongshuimen Bridge and the Yangtze cableway.",
+  "tips": "It's a real residential building; be respectful and don't block residents.",
+  "addressZh": "重庆市渝中区 白象居",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "baixiangju",
+  "visits": [
+   {
+    "date": "2026-12-27",
+    "time": "10:30",
+    "itemId": "2026-12-27-24"
+   }
+  ]
+ },
+ {
+  "name": "Jiujiu Douhua",
+  "nameZh": "九九豆花馆",
+  "city": "Chongqing",
+  "category": "restaurant",
+  "intro": "A homestyle Chongqing restaurant for savory douhua (silky tofu) with spicy dipping sauce and rice. Very different from hotpot and noodles.",
+  "tips": "Order douhua + dipping sauce (蘸水) + rice + braised pork (烧白).",
+  "addressZh": "重庆市 九九豆花馆",
+  "needsReview": true,
+  "reviewFields": [
+   "intro",
+   "addressZh"
+  ],
+  "id": "jiujiu-douhua",
+  "visits": [
+   {
+    "date": "2026-12-27",
+    "time": "12:00",
+    "itemId": "2026-12-27-25"
+   }
+  ]
+ },
+ {
+  "name": "Chongqing Grand Theatre",
+  "nameZh": "重庆大剧院",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A striking modern performing-arts center at Jiangbeizui. We use it as a landmark to reach the riverfront opposite Hongyadong.",
+  "tips": "Tell the taxi 重庆大剧院, NOT 洪崖洞.",
+  "addressZh": "重庆市江北区 重庆大剧院",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "chongqing-grand-theatre",
+  "visits": [
+   {
+    "date": "2026-12-27",
+    "time": "17:15",
+    "itemId": "2026-12-27-27"
+   }
+  ]
+ },
+ {
+  "name": "Grand Theatre Riverfront / Jiangbeizui",
+  "nameZh": "大剧院江滩 · 江北嘴江边",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "The riverside below the Grand Theatre, with the classic view of Qiansimen Bridge, Hongyadong and the Yuzhong skyline. A top scenic stop: arrive in daylight and stay through sunset into night.",
+  "tips": null,
+  "addressZh": "重庆市江北区 江北嘴 重庆大剧院江边",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "jiangbeizui-riverfront",
+  "visits": [
+   {
+    "date": "2026-12-27",
+    "time": "17:45",
+    "itemId": "2026-12-27-28"
+   }
+  ]
+ },
+ {
+  "name": "Hongyadong (view only)",
+  "nameZh": "洪崖洞",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "A cliffside complex in the style of traditional stilt houses, built vertically into the hillside and dramatically lit at night. For us the outside is the attraction: we photograph it from across the river.",
+  "tips": "Don't go inside; it's very crowded.",
+  "addressZh": "重庆市渝中区嘉陵江滨江路88号 洪崖洞",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "hongyadong",
+  "visits": [
+   {
+    "date": "2026-12-27",
+    "time": "19:30",
+    "itemId": "2026-12-27-29"
+   }
+  ]
+ },
+ {
+  "name": "Qiansimen Bridge",
+  "nameZh": "千厮门嘉陵江大桥",
+  "city": "Chongqing",
+  "category": "sight",
+  "intro": "The cable-stayed bridge right beside Hongyadong, linking Jiangbeizui with Yuzhong. Walking across gives changing views of Hongyadong and the skyline.",
+  "tips": "Optional: walk one way toward the hotel only if it isn't packed.",
+  "addressZh": "重庆市 千厮门嘉陵江大桥",
+  "needsReview": true,
+  "reviewFields": [
+   "addressZh"
+  ],
+  "id": "qiansimen-bridge",
+  "visits": [
+   {
+    "date": "2026-12-27",
+    "time": "20:00",
+    "itemId": "2026-12-27-30"
+   }
+  ]
+ },
+ {
+  "name": "Swissôtel Beijing Hong Kong Macau Center",
+  "nameZh": null,
+  "city": "Beijing",
+  "category": "hotel",
+  "intro": "Our Beijing hotel.",
+  "tips": null,
+  "address": null,
+  "addressZh": null,
+  "id": "hotel-swissotel-bj",
+  "visits": [],
+  "needsReview": false
+ }
+]
